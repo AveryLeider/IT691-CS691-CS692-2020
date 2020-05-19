@@ -1,0 +1,42 @@
+Climate Change Grant
+
+This project idea lit up on Feb 17, 2020 when Jeff Bezos of Amazon posted on Instagram that in 2020 he will fund $10 B of climate change research. (https://en.wikipedia.org/wiki/Bezos_Earth_Fund) However, the URL where one applies to Amazon for Grants has not yet appeared.  
+
+Before this announcement, the standard Amazon grant was $100 - 200K, 1/2 of which was free product, free training, free expertise,  and the application process is at: 
+
+https://aws.amazon.com/government-education/nonprofits/aws-imagine-grant-program/
+
+Currently it is not open yet for the year (usually June)
+
+This student project, using Artificial Intelligence with Robot Fish, is designed to be part of a larger work.
+
+So this team's ideas will need socialization to find others to collaborate with.
+
+Our secondary funding target (besides contacting Amazon for collaboration partners) is this continuing grant of the National Science Foundation:  it does not have a due date, because it usually is connected to other, smaller efforts (like those of our students) with their own due dates:
+
+From this URL:
+
+https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11699&org=ATM
+
+Within this office of NSF:  Division of Atmospheric and Geospace Sciences
+
+Is this Program Description that fits our student project:  PD 06-5740 
+
+Because the giver of this grant will be working with much larger organizations, that could easily sub-award the pilot that starts our Artificial Intelligence Robot Fish at Pace University.
+
+So, we want to submit our proposal to PD 06-5740 to be brought into thata discussion and collaboration.
+
+
+"Full Proposal Accepted Anytime
+
+Proposals may be submitted at any time during the year for all programs except those involving the allocation of observational and computing facilities.
+
+
+SYNOPSIS
+
+The goals of the Program are to: (i) advance knowledge about the processes that force and regulate the atmosphere’s synoptic and planetary circulation, weather and climate, and (ii) sustain the pool of human resources required for excellence in synoptic and global atmospheric dynamics and climate research.
+
+Research topics include theoretical, observational and modeling studies of the general circulation of the stratosphere and troposphere; synoptic scale weather phenomena; processes that govern climate; the causes of climate variability and change; methods to predict climate variations; extended weather and climate predictability; development and testing of parameterization of physical processes; numerical methods for use in large-scale weather and climate models; the assembly and analysis of instrumental and/or modeled weather and climate data; data assimilation studies; development and use of climate models to diagnose and simulate climate and its variations and change.
+
+Some Climate and Large Scale Dynamics (CLD) proposals address multidisciplinary problems and are often co-reviewed with other NSF programs, some of which, unlike CLD, use panels in addition to mail reviewers, and thus have target dates or deadlines.  Proposed research that spans in substantive ways topics appropriate to programs in other divisions at NSF, e.g., ocean sciences, ecological sciences, hydrological sciences, geography and regional sciences, applied math and statistics, etc., must be submitted at times consistent with target dates or deadlines established by those programs.  If it's not clear whether your proposed research is appropriate for co-review, please contact CLD staff."
+
