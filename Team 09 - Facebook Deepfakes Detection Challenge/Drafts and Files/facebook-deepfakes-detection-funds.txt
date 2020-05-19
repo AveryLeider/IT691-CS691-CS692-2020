@@ -1,0 +1,6 @@
+This project was inspired by the Facebook Deepfake Challenge
+
+https://ai.facebook.com/blog/deepfake-detection-challenge/
+
+Facebook offers a number of tools for developers at its site, developers.facebook.com, but for the Deepfakes Detection Challenge, it grouped them together with datasets and tutorials to encourage research teams.
+
